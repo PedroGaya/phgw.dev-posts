@@ -1,9 +1,16 @@
 version: "0.0.0"
 author: "Pedro H. Gaya @ pedrohenriquegaya@gmail.com"
+categories:
+  - Technology
+  - Game Design
+  - Music
+series:
+  - So, how do I make a website?
+  - My favorite rules.
 posts:
   - how-the-web-works-1:
-      - title: "How the web works - Part 1"
+      - title: "The basics - Part 1"
       - subtitle: "A beginners guide to understanding the web."
       - tags: ["web", "tutorial"]
-      - series: "How the web works"
-      - category: "tech"
+      - series: So, how do I make a website?
+      - category: Technology
