@@ -8,9 +8,9 @@ series:
   - So, how do I make a website?
   - My favorite rules.
 posts:
-  - how-the-web-works-1:
-      - title: "The basics - Part 1"
-      - subtitle: "A beginners guide to understanding the web."
-      - tags: ["web", "tutorial"]
-      - series: So, how do I make a website?
-      - category: Technology
+  - file: the-basics-1.md
+    title: The basics - Part 1
+    subtitle: A beginners guide to understanding the web.
+    tags: [web, tutorial]
+    series: So, how do I make a website?
+    category: Technology
