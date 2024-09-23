@@ -8,9 +8,17 @@ series:
   - So, how do I make a website?
   - My favorite rules.
 posts:
-  - file: the-basics-1.md
+  - file: post-1.md
     title: The basics - Part 1
     subtitle: A beginners guide to understanding the web.
-    tags: [web, tutorial]
+    tags: [web, tutorial, test]
     series: So, how do I make a website?
     category: Technology
+    createdAt: "1970-01-01T00:00:00Z"
+  - file: post-2.md
+    title: MORK BORG - "Burn The Book"
+    subtitle: An analysis of MORK BORG's first rule.
+    tags: [analysis, rules, test]
+    series: My favorite rules.
+    category: Game Design
+    createdAt: "1970-01-01T00:00:00Z"
