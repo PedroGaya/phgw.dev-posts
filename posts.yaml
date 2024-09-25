@@ -7,20 +7,21 @@ categories:
 series:
   - So, how do I make a website?
   - My favorite rules.
+  - None
 posts:
   - file: post-1.md
     key: the-basics-1
     title: The basics - Part 1
-    subtitle: A beginners guide to understanding the web.
-    tags: [web, tutorial, test]
+    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt mattis orci non fermentum. Donec id erat eleifend, tincidunt ante sed, bibendum massa. Fusce a sodales dui, aliquet condimentum mauris. Vestibulum euismod tristique condimentum. Proin eget placerat tortor, vel maximus lectus. Praesent leo sem, varius non felis at, ultricies bibendum ex. Integer eu elementum elit, sed blandit justo.
+    tags: [web, knowledge]
     series: So, how do I make a website?
     category: Technology
     createdAt: "1970-01-01T00:00:00Z"
   - file: post-2.md
-    key: mork-borg-rule-0
-    title: MORK BORG - "Burn The Book"
-    subtitle: An analysis of MORK BORG's first rule.
-    tags: [analysis, rules, test]
-    series: My favorite rules.
-    category: Game Design
+    key: makingof-this-website
+    title: How this website was made
+    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt mattis orci non fermentum. Donec id erat eleifend, tincidunt ante sed, bibendum massa. Fusce a sodales dui, aliquet condimentum mauris. Vestibulum euismod tristique condimentum. Proin eget placerat tortor, vel maximus lectus. Praesent leo sem, varius non felis at, ultricies bibendum ex. Integer eu elementum elit, sed blandit justo.
+    tags: [web, tutorial]
+    series: None
+    category: Technology
     createdAt: "1970-01-01T00:00:00Z"
