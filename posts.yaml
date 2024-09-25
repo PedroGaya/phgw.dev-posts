@@ -9,6 +9,7 @@ series:
   - My favorite rules.
 posts:
   - file: post-1.md
+    key: the-basics-1
     title: The basics - Part 1
     subtitle: A beginners guide to understanding the web.
     tags: [web, tutorial, test]
@@ -16,6 +17,7 @@ posts:
     category: Technology
     createdAt: "1970-01-01T00:00:00Z"
   - file: post-2.md
+    key: mork-borg-rule-0
     title: MORK BORG - "Burn The Book"
     subtitle: An analysis of MORK BORG's first rule.
     tags: [analysis, rules, test]
