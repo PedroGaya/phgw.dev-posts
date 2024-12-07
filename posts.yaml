@@ -1,27 +1,16 @@
 version: "0.0.0"
 author: "Pedro H. Gaya @ pedrohenriquegaya@gmail.com"
 categories:
-  - Technology
   - Game Design
-  - Music
 series:
-  - So, how do I make a website?
-  - My favorite rules.
+  - "TTRPG Devlog: The Hand"
   - None
 posts:
-  - file: post-1.md
-    key: the-basics-1
-    title: The basics - Part 1
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt mattis orci non fermentum. Donec id erat eleifend, tincidunt ante sed, bibendum massa. Fusce a sodales dui, aliquet condimentum mauris. Vestibulum euismod tristique condimentum. Proin eget placerat tortor, vel maximus lectus. Praesent leo sem, varius non felis at, ultricies bibendum ex. Integer eu elementum elit, sed blandit justo.
-    tags: [web, knowledge]
-    series: So, how do I make a website?
-    category: Technology
-    createdAt: "1970-01-01T00:00:00Z"
-  - file: post-2.md
-    key: makingof-this-website
-    title: How this website was made
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt mattis orci non fermentum. Donec id erat eleifend, tincidunt ante sed, bibendum massa. Fusce a sodales dui, aliquet condimentum mauris. Vestibulum euismod tristique condimentum. Proin eget placerat tortor, vel maximus lectus. Praesent leo sem, varius non felis at, ultricies bibendum ex. Integer eu elementum elit, sed blandit justo.
-    tags: [web, tutorial]
-    series: None
-    category: Technology
-    createdAt: "1970-01-01T00:00:00Z"
+  - file: devlog-2024-12-06.md
+    key: devlog-2024-12-06
+    title: "So, what does cyber-fantasy even mean?"
+    subtitle: The first post in my devlog for the TTRPG "The Hand". In this post, I talk about what cyberpunk and fantasy mean to me, and how I went about defining what a cyber-fantasy game should be about.
+    tags: [the hand, ttrpg, game design]
+    series: "TTRPG Devlog: The Hand"
+    category: Game Design
+    createdAt: "2024-12-06T20:00:00Z"
